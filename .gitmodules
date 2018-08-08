@@ -1,0 +1,3 @@
+[submodule "metaphone"]
+	path = metaphone
+	url = git@github.com:oubiwann/metaphone.git
